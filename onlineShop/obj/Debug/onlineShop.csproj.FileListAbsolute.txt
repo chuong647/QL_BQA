@@ -537,3 +537,7 @@ D:\onlineShop\onlineShop\obj\Debug\onlineShop.csproj.CoreCompileInputs.cache
 D:\onlineShop\onlineShop\obj\Debug\onlineShop.csproj.CopyComplete
 D:\onlineShop\onlineShop\obj\Debug\onlineShop.dll
 D:\onlineShop\onlineShop\obj\Debug\onlineShop.pdb
+D:\Documents\QL_BQA\onlineShop\obj\Debug\onlineShop.csproj.AssemblyReference.cache
+D:\Documents\QL_BQA\onlineShop\obj\Debug\onlineShop.csproj.CoreCompileInputs.cache
+D:\Documents\QL_BQA\onlineShop\obj\Debug\onlineShop.dll
+D:\Documents\QL_BQA\onlineShop\obj\Debug\onlineShop.pdb
